@@ -28,7 +28,7 @@
     "csv-parser": "^2.3.3",
     "dotenv": "^8.2.0",
     "dotenv-safe": "^8.2.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "http": "0.0.1-security",
     "jsonwebtoken": "^8.5.1",
     "knex": "^0.20.15",
